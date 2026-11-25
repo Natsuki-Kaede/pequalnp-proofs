@@ -1,0 +1,29 @@
+lean/PEqualNP/Outside/L_meta_13593.lean
+  348eadfc7c04277d 1-2364
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.10",
+  "base_commit_sha": "791b401e57fab862ed9ed6e3520ace0af86a6f6d",
+  "prompts": {
+    "348eadfc7c04277d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a211b0-7341-7642-89f3-334e52233ac1",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Natsuki-Kaede",
+      "messages": [],
+      "total_additions": 2364,
+      "total_deletions": 0,
+      "accepted_lines": 2364,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "lean/PEqualNP/Outside/L_meta_13593.lean": {
+          "additions": 2364,
+          "accepted_lines": 2364
+        }
+      }
+    }
+  }
+}
