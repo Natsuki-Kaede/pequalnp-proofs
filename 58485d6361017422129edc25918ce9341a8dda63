@@ -1,0 +1,47 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.10",
+  "base_commit_sha": "58485d6361017422129edc25918ce9341a8dda63",
+  "prompts": {
+    "348eadfc7c04277d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a211b0-7341-7642-89f3-334e52233ac1",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Natsuki-Kaede",
+      "messages": [],
+      "total_additions": 246,
+      "total_deletions": 22,
+      "accepted_lines": 6721,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "lean/PEqualNP/Outside/L_meta_18318.lean": {
+          "accepted_lines": 6273
+        },
+        "lean/PEqualNP/Outside/L_meta_19229.lean": {
+          "additions": 38,
+          "deletions": 19,
+          "accepted_lines": 19
+        },
+        "PEqualNP/Outside/L_meta_5921.lean": {
+          "additions": 5
+        },
+        "lean/PEqualNP/Outside/L_meta_18637.lean": {
+          "accepted_lines": 429
+        },
+        "lean/PEqualNP/Outside/L_meta_19738.lean": {
+          "additions": 50,
+          "deletions": 3
+        },
+        "lean/PEqualNP/Outside/L_meta_5176.lean": {
+          "additions": 119
+        },
+        "lean/PEqualNP/Outside/L_meta_20286.lean": {
+          "additions": 34
+        }
+      }
+    }
+  }
+}
