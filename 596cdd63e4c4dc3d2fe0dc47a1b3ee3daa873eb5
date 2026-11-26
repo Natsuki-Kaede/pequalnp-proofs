@@ -1,0 +1,55 @@
+lean/PEqualNP/Outside/L_meta_18860.lean
+  348eadfc7c04277d 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.10",
+  "base_commit_sha": "596cdd63e4c4dc3d2fe0dc47a1b3ee3daa873eb5",
+  "prompts": {
+    "348eadfc7c04277d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a211b0-7341-7642-89f3-334e52233ac1",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Natsuki-Kaede",
+      "messages": [],
+      "total_additions": 13415,
+      "total_deletions": 6632,
+      "accepted_lines": 6754,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "lean/PEqualNP/Outside/L_meta_18357.lean": {
+          "additions": 5
+        },
+        "lean/PEqualNP/Outside/L_meta_18318.lean": {
+          "additions": 12897,
+          "deletions": 6624,
+          "accepted_lines": 6273
+        },
+        "lean/PEqualNP/Outside/L_meta_7243.lean": {
+          "additions": 14,
+          "deletions": 5
+        },
+        "lean/PEqualNP/Outside/L_pcx_180.lean": {
+          "additions": 5
+        },
+        "lean/PEqualNP/Outside/L_meta_9759.lean": {
+          "additions": 5
+        },
+        "lean/PEqualNP/Outside/L_meta_2794.lean": {
+          "additions": 5
+        },
+        "lean/PEqualNP/Outside/L_meta_18860.lean": {
+          "additions": 52,
+          "accepted_lines": 52
+        },
+        "lean/PEqualNP/Outside/L_meta_18637.lean": {
+          "additions": 432,
+          "deletions": 3,
+          "accepted_lines": 429
+        }
+      }
+    }
+  }
+}
