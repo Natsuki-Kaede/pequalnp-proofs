@@ -1,0 +1,51 @@
+lean/PEqualNP/Outside/R_meta_9450_2.lean
+  e602e886dc216ac7 1-158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.10",
+  "base_commit_sha": "c78bf57e50142b2320f51479f27b32993b121224",
+  "prompts": {
+    "e602e886dc216ac7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a21710-5bb3-7c60-8287-2d12f183b168",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "lyfsccc",
+      "messages": [],
+      "total_additions": 209,
+      "total_deletions": 16,
+      "accepted_lines": 158,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "lean/PEqualNP/Outside/L_meta_4732.lean": {
+          "additions": 5
+        },
+        "lean/PEqualNP/Outside/L_meta_8543.lean": {
+          "additions": 5
+        },
+        "lean/PEqualNP/Outside/L_meta_5210.lean": {
+          "additions": 5
+        },
+        "lean/PEqualNP/Outside/L_meta_9450.lean": {
+          "additions": 5
+        },
+        "lean/PEqualNP/Outside/L_meta_18865.lean": {
+          "additions": 5
+        },
+        "lean/PEqualNP/Outside/R_meta_9450_2.lean": {
+          "additions": 174,
+          "deletions": 16,
+          "accepted_lines": 158
+        },
+        "lean/PEqualNP/Outside/L_meta_4874.lean": {
+          "additions": 5
+        },
+        "lean/PEqualNP/Outside/L_meta_2572.lean": {
+          "additions": 5
+        }
+      }
+    }
+  }
+}
